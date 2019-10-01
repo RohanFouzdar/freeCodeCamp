@@ -1,5 +1,5 @@
-const path = require('path');
-const nodemon = require('nodemon');
+var path = require('path');
+var nodemon = require('nodemon');
 
 nodemon({
   ext: 'js json',
